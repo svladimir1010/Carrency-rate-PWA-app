@@ -1,0 +1,1 @@
+/api/*  /https://api.exchangerate.host/latest?base=USD&symbols=USD,EUR,GBP,CAD,AUD,CHF,CNY,RUB,UAH&places=3/:splat 200!
