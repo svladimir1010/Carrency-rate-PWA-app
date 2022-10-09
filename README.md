@@ -1,6 +1,6 @@
 ## Demo 
 
-https://super-otter-144692.netlify.app/
+https://carrency-rate-pwa.netlify.app/
 
 # Getting Started with Create React App
 
